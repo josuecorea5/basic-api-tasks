@@ -1,0 +1,8 @@
+#node modules
+node_modules
+
+#enviroment variables
+.env
+
+#frontend
+client
